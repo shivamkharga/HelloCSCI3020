@@ -13,7 +13,7 @@ public class Simple
 	public String toString()
 	{
 		return "Simple [data=" + data + "]";
-		System.out.println("Shivam");
+		System.out.println("Kharga");
 	}
 	
 }
